@@ -8,7 +8,7 @@ Fun facts about me:
 - 🌱 I volunteer at Engineers Without Borders as the Local Partnerships & Initiatives Co-Coordinator at UWA
 - 🎤 I love singing musical theatre
 
-Check out my blog at [vhxma.github.io](vhxma.github.io) 🚀 and feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/vanessamahx/) 📫
+Check out my blog at [vhxma.github.io](https://www.vhxma.github.io) 🚀 and feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/vanessamahx/) 📫
 
 <!--
 **vhxma/vhxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
