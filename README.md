@@ -2,7 +2,7 @@
 
 My name is Vanessa (She/Her) and I am a software engineering student studying at UWA.
 
-Some fun facts:
+Fun facts about me:
 - 🎓 I am starting my honours next year in Computer Science and Software Engineering
 - 🖥️ I am the first intern in WA at Microsoft
 - 🌱 I volunteer at Engineers Without Borders as the Local Partnerships & Initiatives Co-Coordinator at UWA
