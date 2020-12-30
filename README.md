@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Vanessa (She/Her) and I am a software engineering student studying at UWA. I am the first intern in WA at Microsoft and I am interested in creating technology for social impact.
+
+Check out my blog at [vhxma.github.io](vhxma.github.io).
+
 <!--
 **vhxma/vhxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
