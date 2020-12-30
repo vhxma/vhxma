@@ -3,9 +3,10 @@
 My name is Vanessa (She/Her) and I am a software engineering student studying at UWA.
 
 Some fun facts:
-- I am the first intern in WA at Microsoft
-- I volunteer at Engineers Without Borders as the Local Partnerships & Initiatives Co-Coordinator at UWA
-- I love singing musical theatre
+- 🎓 I am starting my honours next year in Computer Science and Software Engineering
+- 🖥️ I am the first intern in WA at Microsoft
+- 🌱 I volunteer at Engineers Without Borders as the Local Partnerships & Initiatives Co-Coordinator at UWA
+- 🎤 I love singing musical theatre
 
 Check out my blog at [vhxma.github.io](vhxma.github.io) 🚀 and feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/vanessamahx/) 📫
 
