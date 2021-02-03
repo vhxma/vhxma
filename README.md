@@ -1,6 +1,4 @@
-### Hi there! 💃
-
-My name is Vanessa (She/Her) and I am a software engineering student studying at UWA.
+### Hi! I'm Vanessa 💃
 
 Fun facts about me:
 - 🎓 I am starting my honours next year in Computer Science and Software Engineering
@@ -24,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhxma&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages vhxma uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vhxma&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for vhxma" /></p>
