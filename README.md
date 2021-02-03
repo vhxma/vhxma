@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhxma&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages vhxma uses" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=vhxma&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for vhxma" /></p>
