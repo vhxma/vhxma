@@ -1,13 +1,5 @@
 ### Hi! I'm Vanessa 💃
 
-Fun facts about me:
-- 🎓 I am starting my honours next year in Computer Science and Software Engineering
-- 🖥️ I am the first intern in WA at Microsoft
-- 🌱 I volunteer at Engineers Without Borders as the Local Partnerships & Initiatives Co-Coordinator at UWA
-- 🎤 I love singing musical theatre
-
-Check out my blog at [vhxma.github.io](http://vhxma.github.io) 🚀 and feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/vanessamahx/) 📫
-
 <!--
 **vhxma/vhxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
